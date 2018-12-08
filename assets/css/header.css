@@ -1,9 +1,21 @@
 nav li{
     display: inline;
-    text-decoration-line: none;
+    float: right;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #777777
 }
+a:link {
+    color:#777777;
+    text-decoration: none;
+    padding: 10px;
+    border-right-style: solid;
+  }
+a:visited {
+    color:#777777;
+  }
+a:hover {
+    color: black;
+  }
 .navigation{
     display: inline;
     text-decoration-line: none;
