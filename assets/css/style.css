@@ -2,7 +2,7 @@
     border-top: #777777;
     border-top-style: solid;
     border-width: 1px;
-    background-image: url(/Users/ceciliapasquale/Documents/ClassActivities/week1/Basic-Portfolio/assets/images/scratches.jpeg);
+    background-image: url("../images/scratches.jpeg");
     height:800px;
     margin-top:0%;
 }
