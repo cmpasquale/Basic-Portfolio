@@ -4,6 +4,8 @@ nav li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #777777
 }
+nav {
+     margin-right: 40px; } 
 a:link {
     color:#777777;
     text-decoration: none;

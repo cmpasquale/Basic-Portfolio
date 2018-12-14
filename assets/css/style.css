@@ -40,9 +40,10 @@ h2{
 }
 .my-bio{
     float: right;
-    width: 45%;
-    padding: 20px;
+    width: 65%;
+    padding-right: 10px;
     overflow: hidden;
+
 }
 
 #box{
